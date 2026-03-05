@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%20aezthatic-E8304A?style=for-the-badge&logoColor=white" height="42" alt="Aezthatic" />
+<img src="Logo.svg" alt="Aezthatic" height="48" />
 
 <br/>
 <br/>
